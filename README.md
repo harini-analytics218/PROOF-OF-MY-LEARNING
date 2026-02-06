@@ -54,6 +54,27 @@ These insights become clearer when interacting with the slicers.
 3. Use slicers to explore different customer segments.
 
 > Slicers will not work in GitHub preview or Excel Online.
+## Dashboard Snapshots
+
+### Overall View
+Baseline dashboard with no filters applied.
+![Dashboard Overview](dashboard_overview.png)
+
+### Marital Status. Married Customers
+Bike purchase behavior when filtered for married customers.
+![Married Customers](marital_status_married.png)
+
+### Regional Analysis. North America
+Purchase trends for customers in North America.
+![North America Region](region_north_america.png)
+
+### Education Level. Bachelors
+Bike purchase patterns for customers with a Bachelor’s degree.
+![Education Bachelors](education_bachelors.png)
+
+### Combined Insight
+Married customers in North America.
+![Combined Filter](combined_married_north_america.png)
 
 ---
 
